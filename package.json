@@ -15,8 +15,18 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@fontsource/lato": "^4.5.0",
     "gatsby": "^4.1.0",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-image-gallery": "^1.2.7",
+    "react-slick": "^0.28.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "gatsby-plugin-postcss": "^5.1.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
   }
 }

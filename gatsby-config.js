@@ -3,5 +3,5 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "patris-storyboard-portfolio",
   },
-  plugins: [],
+  plugins: ['gatsby-plugin-postcss'],
 };
